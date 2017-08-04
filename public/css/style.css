@@ -1,0 +1,35 @@
+ul {
+  white-space: nowrap;
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+}
+
+img { height:320px;
+        width:320px;
+}
+        
+/*img {height:200px;*/
+/*left: 20px;*/
+/*   right: 20px;*/
+/*   margin: 0 auto;*/
+/*   max-width: none;*/
+/*   min-width: 10%;*/
+/*   position: absolute;*/
+    
+/*}*/
+
+body {
+    background-image: url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0250/0882/music_notes_shop_preview.png");
+}
+    
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+
